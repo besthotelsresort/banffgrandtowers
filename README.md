@@ -1,0 +1,2 @@
+# banffgrandtowers
+Static site: banffgrandtowers
